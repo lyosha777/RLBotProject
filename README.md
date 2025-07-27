@@ -1,5 +1,5 @@
 # RLBotProject
-Wilhelmus is a python Rocket League bot made using the RLBot framework
+Wilhelmus is a python 1v1 Rocket League bot made using the RLBot framework
 
 ## Quick Start
 The easiest way to start a Python bot is demonstrated here!
